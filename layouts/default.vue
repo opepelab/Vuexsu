@@ -18,7 +18,7 @@
 		components: {
             PicutureHigh,
 			Navbar,
-			Footer
+			Footer,
 		}
 	};
 </script>

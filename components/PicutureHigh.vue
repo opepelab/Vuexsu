@@ -14,12 +14,3 @@
                     </a>
         </div>
 </template>
-
-<script>
-	import PicutureHigh from "@/components/PicutureHigh.vue";
-	export default {
-		components: {
-			PicutureHigh
-		}
-	};
-</script>
