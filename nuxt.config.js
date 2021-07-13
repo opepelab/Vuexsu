@@ -41,5 +41,6 @@ export default {
   },
   static: {
     prefix: false
+  },
+  target: 'static'
   }
-}
