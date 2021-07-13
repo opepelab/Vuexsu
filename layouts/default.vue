@@ -10,9 +10,9 @@
 </template>
 
 <script>
-    import PicutureHigh from "/components/picuturehigh.vue";
-	import Navbar from "/components/navbar.vue"; // headerをインポート
-	import Footer from "/components/footer.vue"; // footerをインポート
+    import PicutureHigh from "/components/PicutureHigh";
+	import Navbar from "/components/Navbar"; // headerをインポート
+	import Footer from "/components/Footer"; // footerをインポート
 
 	export default {
 		components: {
