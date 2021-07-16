@@ -1,18 +1,18 @@
 
 <template>
   <main>
-    <h4>JavaScript</h4>
+    HTML,CSS<br>
+    <b>JavaScript</b><br>
     React(Next.js)<br>
     Vue(Nuxt.js)<br>
     Aurelia<br>
-
-    <h4>Services</h4>
-    Vercel<br>
-    Netlify<br>
-
-    <h5>now loading</h5>
+<br>
+    <b>now loading...</b><br>
     Java<br>
-    React Native
+    Rust<br>
+    React Native<br>
+    Kotolin,Swift<br>
+
   </main>
 </template>
 
@@ -23,7 +23,7 @@
       meta: [
         {
           name:'description',
-          content:'キャリアのページです',
+          content:'私のスキルセットです',
         }
       ],
 		}
