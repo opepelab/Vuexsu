@@ -5,7 +5,7 @@
         Facebook
       </a>
       <br>
-      <a href="https://qiita.com/S_watana"target="_blank">
+      <a href="https://qiita.com/S_watana" target="_blank">
         Qiita
       </a>
       <br>
