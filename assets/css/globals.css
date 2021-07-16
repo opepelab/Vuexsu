@@ -23,7 +23,6 @@ header {
 	display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 1px solid #eaeaea;
 }
 
 footer {
@@ -39,13 +38,17 @@ footer {
 a {
   color: #38A6FF;
   text-decoration: none;
-  border-radius: 50%;
 }
 
-
-a:hover:active {
-  opacity: 0.1;
+  
+.ah:hover {
+  border-bottom: 2px solid #38A6FF;
   }
+
+.aha:hover:active {
+    opacity: 0.1;
+    }
+
 
 .maru {
   display: block;
@@ -53,12 +56,12 @@ a:hover:active {
 }
 
 .out:hover{
-    transform: translateY(-300px);
-    transition-duration: 2s;
+    transform: translateY(-20px);
+    transition-duration: 1s;
   }
 
 .static:hover {
-    transform: scale(5);
+    transform: scale(2.2);
     transition-duration: 0.5s;
   }
 
@@ -90,7 +93,4 @@ nav ul {
   text-decoration: none;
   color: #38A6FF;
   padding-bottom: 5px;
-  }
-  nav li:hover:active {
-  border-bottom: 1px solid #38A6FF;
   }

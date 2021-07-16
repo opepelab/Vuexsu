@@ -1,8 +1,8 @@
 <template>
         
             <div class="flex-container">
-                    <a class="maru out" href="https://github.com/opepelab">
-                        <Img class="maru" src="/images/gitx.png" width="50" height="50" />
+                    <a class="maru" href="https://github.com/opepelab">
+                        <Img class="maru out" src="/images/gitx.png" width="50" height="50" />
                     </a>
                     <table width="1%"></table>
                     <a class="maru" href="mailto:ocelot2828@gmail.com">

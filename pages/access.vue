@@ -1,24 +1,32 @@
 
 <template>
   <main>
-          Next.jsとNuxt.jsを<br>
-          直接的なリアル討論は好きではありません。<br>
-          しかしサイヤ人です。<br>
-          <h4>プロフィール</h4>
-          出身住まい：日本 東京<br />
-          生年：1994年生まれ 戌年<br />
-          趣味：読書 <br />
+        <a href="https://com.nicovideo.jp/community/co1568349" target="_blank">
+          niconico
+        </a>
+      <br>
+      <a href="https://www.facebook.com/opepelab/" target="_blank">
+        Facebook
+      </a>
+      <br>
+      <a href="https://note.com/opepelab/" target="_blank">  
+        note
+      </a>
+      <br>
+      <a href="https:ssg-snowy.vercel.app//" target="_blank">  
+        Next.js Site
+      </a>
   </main>
 </template>
 
 <script>
 	export default {
 		head: {
-      title: 'Career - S.watana',
+      title: 'Access - S.watana',
       meta: [
         {
           name:'description',
-          content:'キャリアのページです',
+          content:'アクセス',
         }
       ],
 		}

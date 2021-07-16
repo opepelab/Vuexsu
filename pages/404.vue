@@ -1,7 +1,3 @@
-<script>
-export default {
- asyncData({ redirect }) {
-  return redirect('/')
- }
-}
-</script>
+<template>
+  <p>出力される404ページ</p>
+</template>

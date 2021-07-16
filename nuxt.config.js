@@ -39,8 +39,17 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   },
-  static: {
-    prefix: false
-  },
+  
   target: 'static'
   }
+
+    // Routing configuration
+    router: {
+      extendRoutes (routes, resolve) {
+        routes.push({
+          name: 'custom',
+          path: '*',
+          component: resolve(__dirname, 'pages/404.vue')
+        })
+      }
+    }

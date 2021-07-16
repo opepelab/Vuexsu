@@ -1,21 +1,21 @@
 <template>
   <main>
-    <h1>Home page</h1>
-    <NuxtLink to="/about">
-      About (internal link that belongs to the Nuxt App)000
-    </NuxtLink>
-    <a href="https://nuxtjs.org">External Link to another page</a>
+    パーツ事に軽量な方がいい<br>
+    より高速に動く物を好む<br>
+    それがコードであるなら最短で最高率を好む<br>
+    尚且つ堅牢なシステムかつ物理的にそうであることは言うまでもない<br>
+    一体としては柔軟な動きが可能であるべき。<br>
   </main>
 </template>
 
 <script>
 	export default {
 		head: {
-      title: 'Career - S.watana',
+      title: 'About - S.watana',
       meta: [
         {
           name:'description',
-          content:'キャリアのページです',
+          content:'彼について',
         }
       ],
 		}

@@ -1,24 +1,18 @@
 
 <template>
   <main>
-          Next.jsとNuxt.jsを<br>
-          直接的なリアル討論は好きではありません。<br>
-          しかしサイヤ人です。<br>
-          <h4>プロフィール</h4>
-          出身住まい：日本 東京<br />
-          生年：1994年生まれ 戌年<br />
-          趣味：読書 <br />
+        <a href="https://github.com/opepelab/C-x9/blob/main/C-x9.c">入力に9掛けて9個出力(C言語)</a>  
   </main>
 </template>
 
 <script>
 	export default {
 		head: {
-      title: 'Career - S.watana',
+      title: 'Active Log - S.watana',
       meta: [
         {
           name:'description',
-          content:'キャリアのページです',
+          content:'アクティブなコード',
         }
       ],
 		}
