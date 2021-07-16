@@ -1,11 +1,12 @@
 <template>
   <div class="container">
-    <h1>{{ error.statusCode }}</h1>
+    <h2>{{ error.statusCode }}</h2>
     <p v-if="error.statusCode === 404">
-      ページが見つかりません
+      That page cannot be found.<br>
+      <NuxtLink to="/">Go Home</NuxtLink>
     </p>
     <p v-else>
-      エラーが発生しました
+      Error
     </p>
   </div>
 </template>
@@ -18,5 +19,5 @@ export default {
       default: null
     }
   }
-}
+};
 </script>
