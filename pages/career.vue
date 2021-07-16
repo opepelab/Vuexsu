@@ -19,7 +19,7 @@
 <script>
 	export default {
 		head: {
-      title: 'Career - S.watana',
+      title: 'スキル - S.watana',
       meta: [
         {
           name:'description',

@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="resp">
         <PicutureHigh />
 		<Navbar />
 		<main>
