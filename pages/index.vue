@@ -12,6 +12,7 @@
 </template>
 
 <script>
+
 	export default {
 		head: {
       title: 'TOP - S.watana',

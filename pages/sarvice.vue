@@ -9,11 +9,11 @@
 <script>
 	export default {
 		head: {
-      title: 'Active Log - S.watana',
+      title: 'サービス - S.watana',
       meta: [
         {
           name:'description',
-          content:'アクティブなコード',
+          content:'サービス',
         }
       ],
 		}

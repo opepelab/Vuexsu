@@ -1,6 +1,6 @@
 <template>
 	<div class="resp">
-        <PicutureHigh />
+        <PictureHigh />
 		<Navbar />
 		<main>
 			<nuxt />
@@ -10,13 +10,13 @@
 </template>
 
 <script>
-    import PicutureHigh from "/components/PicutureHigh";
+    import PictureHigh from "/components/PictureHigh";
 	import Navbar from "/components/Navbar"; // headerをインポート
 	import Footer from "/components/Footer"; // footerをインポート
 
 	export default {
 		components: {
-            PicutureHigh,
+            PictureHigh,
 			Navbar,
 			Footer,
 		}
