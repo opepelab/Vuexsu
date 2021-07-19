@@ -24,15 +24,6 @@
       <a href="https://com.nicovideo.jp/community/co1568349" target="_blank">
         niconico
       </a>
-      
-
-     
-
-
-
-
-
-
   </main>
 </template>
 
