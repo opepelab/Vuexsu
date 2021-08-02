@@ -2,17 +2,18 @@
 <template>
   <main>
     HTML,CSS<br>
-    <b>JavaScript</b><br>
+    <b>TypeScript</b><br>
     React(Next.js)<br>
     Vue(Nuxt.js)<br>
-    Aurelia<br>
 <br>
     <b>now loading...</b><br>
-    Java<br>
-    Rust<br>
+    Rust(C C+)<br>
+    Clojure<br>
+    Haskell<br>
+    Python(DeepNode AI)<br>
+    Angular<br>
     React Native<br>
     Kotolin,Swift<br>
-
   </main>
 </template>
 
